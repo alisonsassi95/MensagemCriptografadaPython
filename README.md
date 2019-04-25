@@ -1,5 +1,7 @@
 # MensagemCriptografadaPython
 
+# Enviando uma mensagem por socket criptografada com Cifra de César utilizando Python 
+
 Esse Script foi utilizado no trabalho de Redes de computadores 1, para entender o processo das camadas do TCP/IP.
 
 O arquivo TCPServer.py é utilizadao para esperar uma conexão na porta 13000, e retornará a mensagem DESCRIPTOGRAFADA e em letra em caixa alta.
