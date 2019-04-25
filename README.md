@@ -8,8 +8,8 @@ O arquivo TCPServer.py é utilizadao para esperar uma conexão na porta 13000, e
 
 O arquivo TCPClient.py é utilizado para Receber uma mensagem do usuário e criptografa utilizando a primeira técnica de criptografia utilizada que é a cifra de césar.
 
-Passos para reproduzir: \n
-Depois de instalado o Python no windows(recomendo usar o Linux). \n
+Passos para reproduzir:
+Depois de instalado o Python no windows(recomendo usar o Linux).
   1- Execute o arquivo Server em um terminal.
   2- Execute o arquivo Client em outro terminal.
   3- digite letras ou números no cliente e receberá a resposta do servidor.
